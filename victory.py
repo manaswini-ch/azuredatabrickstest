@@ -1,3 +1,3 @@
 pyspark.SparkContext.addPyFile("dbfs:/FileStore/BHPL/file.py")
-import file.py as file
+import file as file
 print("Victory success")
